@@ -66,7 +66,7 @@ def game_hash
               {:player_name => "Bismack Biyombo" ,
               :number => 0,
               :shoe => 16,
-              :points => ,
+              :points => 12,
               :rebounds => ,
               :assists => ,
               :steals => ,
