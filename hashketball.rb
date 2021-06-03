@@ -34,7 +34,7 @@ def game_hash
               {:player_name => "Mason Plumlee",
               :number => 1,
               :shoe => 19,
-              :points => ,
+              :points => 26,
               :rebounds => ,
               :assists => ,
               :steals => ,
