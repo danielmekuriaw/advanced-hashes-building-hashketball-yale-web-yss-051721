@@ -70,7 +70,7 @@ def game_hash
               :rebounds => 4,
               :assists => 7,
               :steals => 22,
-              :blocks => ,
+              :blocks => 15,
               :slam_dunks => },
               {:player_name => ,
               :number => ,
