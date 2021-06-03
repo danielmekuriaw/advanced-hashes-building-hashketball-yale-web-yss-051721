@@ -69,7 +69,7 @@ def game_hash
               :points => 12,
               :rebounds => 4,
               :assists => 7,
-              :steals => ,
+              :steals => 22,
               :blocks => ,
               :slam_dunks => },
               {:player_name => ,
